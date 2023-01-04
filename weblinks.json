@@ -2,28 +2,33 @@
   "weblinks": [
     {
       "id": "1",
-      "title": "A",
-      "url": ""
+      "title": "သိုင်းကွက် များ",
+      "url": "https://yotepya.xyz/Positions/"
     },
     {
       "id": "2",
-      "title": "B",
-      "url": ""
+      "title": "ရုပ်ပြ သိုင်းကျမ်း ၁",
+      "url": "https://yotepya.xyz/"
     },
     {
       "id": "3",
-      "title": "C",
-      "url": ""
+      "title": "သိုင်းကွက်တွေ ကျင့်မယ်",
+      "url": "https://game.yotepya.xyz/"
     },
     {
       "id": "4",
-      "title": "D",
-      "url": ""
+      "title": "သိုင်းပေါင်းစုံ ဇာတ်ကားများ", 
+      "url": "https://loekar.com/"
     },
     {
       "id": "5",
-      "title": "E",
-      "url": ""
+      "title": "အပြာ တီဗွီ",
+      "url": "https://apyar.tv/"
+    },
+    {
+      "id": "6",
+      "title": "ရုပ်ပြ သိုင်းကျမ်း ၂",
+      "url": "https://apyarcomic.com/"
     }
   ]
 }
